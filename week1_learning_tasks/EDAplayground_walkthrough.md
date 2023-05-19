@@ -16,9 +16,10 @@ additional identifcation information.
 which can be used however you logged in. Using certain other simulators will require you to have registered for
 a full account.
 2. In either the Design or Testbench window pane, type in the following code:
-3. 
-![image](https://github.com/Raviyazareen22/internship_training/assets/132916138/7a879fbd-6a02-4187-abb4-1af435b29090)
-3. Click Run (top left)
+
+3. ![image](https://github.com/Raviyazareen22/internship_training/assets/132916138/7a879fbd-6a02-4187-abb4-1af435b29090)
+
+4. Click Run (top left)
 Yes, running a simulation is as simple as that!
 4. In the bottom pane, you should see real-time results as your code is being compiled and then run. A run typically
 takes 1-5 seconds, depending on network traffic and simulator. Near the bottom of result output, you should see:
