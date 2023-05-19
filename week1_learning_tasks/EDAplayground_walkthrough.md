@@ -52,7 +52,9 @@ The following synthesis options are available:
 • use ABC with cell library - synthesize for a demo cell library using ABC
 • memory -nomap - skip memory_map step
 ![image](https://github.com/Raviyazareen22/internship_training/assets/132916138/44dc3058-e418-4eec-a4f2-ae51e47d2446)
+
 yosys circuit diagram:
+
 ![image](https://github.com/Raviyazareen22/internship_training/assets/132916138/255c7c7c-fddb-43f3-bf88-6b13ee741599)
 
 
