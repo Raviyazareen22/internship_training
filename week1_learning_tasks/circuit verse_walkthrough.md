@@ -1,7 +1,8 @@
 #### circuit verse tutorial
 CircuitVerse (CV) simulator is a cloud-based open source tool for building live circuit simulations. Use the CircuitVerse documentation to learn about the interface and different features and functionalities. You can read it from start to finish, or use it as a reference.
 
-![image](https://github.com/Raviyazareen22/internship_training/assets/132916138/e54bde68-34f8-4a81-8718-adb3c8ac7d9a)
+![image](https://github.com/Raviyazareen22/internship_training/assets/132916138/adf9644f-e380-43d5-8f86-05df073151d2)
+
 
 Description:
 1	Menu bar:	Displays different options available in the menu bar for managing and creating projects
